@@ -1,0 +1,17 @@
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\bin\Debug\net7.0\SearchWithDictionary.exe
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\bin\Debug\net7.0\SearchWithDictionary.deps.json
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\bin\Debug\net7.0\SearchWithDictionary.runtimeconfig.json
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\bin\Debug\net7.0\SearchWithDictionary.dll
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\bin\Debug\net7.0\SearchWithDictionary.pdb
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\obj\Debug\net7.0\SearchWithDictionary.csproj.AssemblyReference.cache
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\obj\Debug\net7.0\SearchWithDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\obj\Debug\net7.0\SearchWithDictionary.AssemblyInfoInputs.cache
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\obj\Debug\net7.0\SearchWithDictionary.AssemblyInfo.cs
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\obj\Debug\net7.0\SearchWithDictionary.csproj.CoreCompileInputs.cache
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\obj\Debug\net7.0\SearchWithDictionary.csproj.CopyComplete
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\obj\Debug\net7.0\SearchWithDictionary.dll
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\obj\Debug\net7.0\refint\SearchWithDictionary.dll
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\obj\Debug\net7.0\SearchWithDictionary.pdb
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\obj\Debug\net7.0\SearchWithDictionary.genruntimeconfig.cache
+C:\Users\noname2022\source\repos\SearchWithDictionary\SearchWithDictionary\obj\Debug\net7.0\ref\SearchWithDictionary.dll
